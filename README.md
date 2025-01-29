@@ -12,7 +12,7 @@
 ## 🛠️ Technologies & Tools:
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
-- **Database:** MySQL  
+- **Database:** MySQL ,Mongodb 
 - **Other Tools:** Git, EJS  
 
 ## 💡 What I’m Working On:
